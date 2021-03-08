@@ -128,7 +128,7 @@ char* get_str() {
 			scanf("%*c");
 		}
 	} while (n > 0);
-		
+		// hghkjhgkjgkjghg
 	if (len > 0) 
 	{
 		res[len] = '\0';
